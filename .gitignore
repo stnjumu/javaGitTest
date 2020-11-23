@@ -2,6 +2,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java,vscode,maven
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,vscode,maven
 
+.gitignore
+.settings
+.classpath
+.project
+
 ### Java ###
 # Compiled class file
 *.class
